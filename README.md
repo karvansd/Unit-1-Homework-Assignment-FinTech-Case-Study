@@ -69,15 +69,25 @@
 
 * What domain of the financial industry is the company in?
 
-  - The FinTech domain that nanopay is in is payments and billing.
+  - The FinTech domain that nanopay is in is payments and billing. [[1]](#1)
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-  -
+  - In the domain of payments 5 key factors have had a tremendous impact on the payments industry over the course of the last 5 years. TheChanged customer behaviour
+    - Changed competitive environment
+    - New regulatory initiatives
+    - New technologies
+    - Changed market infrastructure
+
+  * Changed customer behaviour:
+  * Changed competitive environment:
+  * Regulatory Initiatives:
+  * Technologies:
+  * Market Infrastructure: replacement or revision of outdated payment infrastructure in the market
 
 * What are the other major companies in this domain?
-  - The other major companies in this domain are any payment platforms for retail and P2P applications. These include larger companies such as Apple Pay, Amazon Pay, etc.
-  - Other rival FinTech companies that offer similar services include Zeta Account, Pesapal, SmoothPay, Soundpays and Plooto.
+  - The other major companies in this domain are any payment platforms for retail and P2P applications. These include larger companies such as Apple Pay, Amazon Pay, etc. [[2]](#2)
+  - Other rival FinTech companies that offer similar services include Zeta Account, Pesapal, SmoothPay, Soundpays and Plooto. [[7]](#7) [[8]](#8)
 
 ## Results
 
@@ -87,19 +97,29 @@
 
 - What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-  - Acquisition metrics - how many new customers you gain (customer acquisition)
-  - Activation metrics - how successful you are at getting people to utilize your product
-  - Retention metrics - keeping people engaged with your product and retaining customers
-  - Referrals - willingness of customers to recommend your product
-  - Revenues
-  - Market metrics - what specific marketing approach is attracting customers
-  - Technical metrics - ease of user and customer experience with your product. Making sure your product is running optimally meeting the increasing demands of the customer.
+  - Acquisition metrics - how many new customers you gain (customer acquisition) [[6]](#6)
+  - Activation metrics - how successful you are at getting people to utilize your product [[6]](#6)
+  - Retention metrics - keeping people engaged with your product and retaining customers [[6]](#6)
+  - Referrals - willingness of customers to recommend your product [[6]](#6)
+  - Revenues [[6]](#6)
+  - Market metrics - what specific marketing approach is attracting customers [[6]](#6)
+  - Technical metrics - ease of user and customer experience with your product. Making sure your product is running optimally meeting the increasing demands of the customer. [[6]](#6)
 
 - How is your company performing relative to competitors in the same domain?
 
-  - Relative to competitors the company is performing in the same ballpark range for total funding (most around $10 Million), it has 49 employees which is on the larger end for FinTech’s in the similar range.
+  - Relative to competitors the company is performing in the same ballpark range for total funding (most around $10 Million), it has 54 employees which is on the larger end for FinTech’s in the similar range. [[7]](#7) [[8]](#8)
 
-  - Compared to competitors such as ApplePay and AmazonPay, it has more flexibility in terms of being a smaller FinTech Startup meaning it offers more diversified and targeted products to it’s clients try to create a scalable digital cash system for B2B and B2C payments.
+  - Compared to competitors such as ApplePay and AmazonPay, it has more flexibility in terms of being a smaller FinTech Startup meaning it offers more diversified and targeted products to it’s clients try to create a scalable digital cash system for B2B and B2C payments. [[1]](#1)
+
+## Recommendations
+
+- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+- Why do you think that offering this product or service would benefit the company?
+
+- What technologies would this additional product or service utilize?
+
+- Why are these technologies appropriate for your solution?
 
 ## References
 
@@ -112,3 +132,9 @@
 <a id="4">[4]</a> https://stackshare.io/nanopay/nanopay
 
 <a id="5">[5]</a> https://www.prnewswire.com/news-releases/bepay-partners-with-nanopay-to-enable-cross-border-payments-for-their-customers-301182530.html
+
+<a id="6">[6]</a> https://www.benzinga.com/fintech/19/06/13911172/fintech-analytics-the-top-7-metrics-every-fintech-company-should-monitor
+
+<a id="7">[7]</a> https://www.zoominfo.com/c/nanopay-corporation/358038250
+
+<a id="8">[8]</a> https://www.owler.com/company/nanopay#competitors
