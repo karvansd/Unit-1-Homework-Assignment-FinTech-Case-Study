@@ -73,17 +73,34 @@
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-  - In the domain of payments 5 key factors have had a tremendous impact on the payments industry over the course of the last 5 years. TheChanged customer behaviour
-    - Changed competitive environment
-    - New regulatory initiatives
-    - New technologies
-    - Changed market infrastructure
+  - In the domain of payments 5 key factors have had a tremendous impact on the payments industry over the course of the last 5 years. [[9]](#9)
+    - Changed customer behaviour
+    * Changed competitive environment
+    * New regulatory initiatives
+    * New technologies
+    * Changed market infrastructure
 
   * Changed customer behaviour:
+    - The general requirements from the customer for a successful payment currently are being fast, simple, secure, cost-effective and anonymous. [[9]](#9)According to the McKinsey 2020 report the global pandemic has drastically accelerated trends in customer demand and usage of digital payments in ecommerce and other services. [[10]](#10)
   * Changed competitive environment:
+
+    - The world of digital payments is ever increasing compared to its cash based alternatives. The 2020 McKinsey report also shows a drastic 10 year decrease of cash based payments relative to digital payments in both mature and emerging markets. [[10]](#10)
+    - Digital payments, specifically via cell phones or mobile payments, have increased over the past decade to currently exist in many countries. This has drastically increased the number of FinTech companies competing to offer differentiated services that are both flexible in design and price. [[9]](#9)[[10]](#10)
+
   * Regulatory Initiatives:
+
+    - Legislative pressure and regulation on the payments sector has also increased, especially in the last few years. Regulatory initiatives are mainly aimed at further harmonizing payments, which increases consumer protection and promotes innovation. [[9]](#9)
+
   * Technologies:
-  * Market Infrastructure: replacement or revision of outdated payment infrastructure in the market
+
+    - Technologies are continuing to be developed and evolve as the competitive market among FinTech startups and larger corporations, like Apple, compete to offer services that meet the ever-changing customer demands. [[9]](#9)
+    - Over the past decade an increase of digital payments and decline in physical methods such as checks ( which was the most common mode of universal money transfer method especially between businesses) has caused an increase in the widespread use of digital payment methods such as: mobile wallet, mobile POS, NFC, mobile P2P transfer (i.e. Venmo), payments in apps, carrier billing (i.e. Amazon Prime), online payment services (i.e. PayPal) and WeChat. [[11]](#11)
+
+    * Currently, two revolutionary technologies impacting payments now are AI and open banking. [[9]](#9)
+    * Other key payment innovations as of 2020 include: Strong Customer Autheniczation (SCA), biometric identification, increased focus on back office integration, exception of accepted payments at banks due to payment innovations in FinTech, increased collaboration between banks and FinTech startups, and growth in variety and volume of non-cash payments. [[12]](#12)
+
+  * Market Infrastructure:
+    - Various global initiatives are underway with the aim of modernizing the payment infrastructure and replacing the outdated payment infrastructure that still exists in the market today. [[9]](#9)
 
 * What are the other major companies in this domain?
   - The other major companies in this domain are any payment platforms for retail and P2P applications. These include larger companies such as Apple Pay, Amazon Pay, etc. [[2]](#2)
@@ -138,3 +155,11 @@
 <a id="7">[7]</a> https://www.zoominfo.com/c/nanopay-corporation/358038250
 
 <a id="8">[8]</a> https://www.owler.com/company/nanopay#competitors
+
+<a id="9">[9]</a> https://www.bankinghub.eu/innovation-digital/payments
+
+<a id="10">[10]</a> https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
+
+<a id="11">[11]</a> https://www.cashbook.com/changes-in-payment-trends-over-the-last-10-years/
+
+<a id="12">[12]</a> https://codete.com/blog/7-key-payments-innovations-in-fintech-for-2020/
