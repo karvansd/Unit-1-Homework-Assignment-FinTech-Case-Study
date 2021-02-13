@@ -110,7 +110,9 @@
 
 - What has been the business impact of this company so far?
 
-  -
+  - So far the company has generated $1B in value for investors [[1]](#1).
+
+  * Nanopay also recently (December 2020) partnered with BePay, a financial innovation company in Brazil, to enable cross-border payments for their customers. This will eventually enable all BePay customers to send both inbound and outbound payments to the 150+ countries in nanopays network [[5]](#5).
 
 - What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -124,26 +126,26 @@
 
 - How is your company performing relative to competitors in the same domain?
 
-  - Relative to competitors the company is performing in the same ballpark range for total funding (most around $10 Million), it has 54 employees which is on the larger end for FinTech’s in the similar range [[7]](#7) [[8]](#8).
+  - Relative to competitors the company is performing in the same ballpark range for total funding (most around $10 Million), it has 54 employees which is on the larger size for FinTech’s in the similar funding range [[7]](#7) [[8]](#8).
 
-  - Compared to competitors such as ApplePay and AmazonPay, it has more flexibility in terms of being a smaller FinTech Startup meaning it offers more diversified and targeted products to it’s clients try to create a scalable digital cash system for B2B and B2C payments [[1]](#1).
+  - Compared to competitors such as ApplePay and AmazonPay, it has more flexibility in terms of being a smaller FinTech Startup meaning it can easily adapt and offer diverse and targeted products to it’s clients when change is needed. The ease of being able to easily adapt to clients demands helps to create a scalable digital cash system for B2B and B2C payments [[1]](#1).
 
 ## Recommendations
 
-- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+- If you were to advise the company, what products or services would you suggest they offer?
 
   - The product that I would suggest to offer would be computer vision and biometric technology.
 
 - Why do you think that offering this product or service would benefit the company?
 
-  - Computer vision and biometric technology would add an extra and very secure layer of identification. This would help with monitoring for fraud and the added security would also help ease in transactions both domestically but especially across borders. If users can be identified by their biometrics then this added security would allow for an increase in market.... ellaboarte on how!
+  - Computer vision and biometric technology would add an extra and secure layer of identification. This would help with monitoring for fraud and the added security would also help facilitate in transactions both domestically, but especially across borders. This would help with KYC protocols and help to ensure that a person has to biometrically confirm an account is theirs before sending a transaction. It is hard to fool such systems built off of AI technology, which adds to their security. As well, authorizing payments with computer vision identification, also saves time by not having to use cash or credit card.
 
 - What technologies would this additional product or service utilize?
 
-  - Computer visiona and biometric technology. The underlying technology hear being AI... explain more.
+  - Computer vision and biometric technology. The underlying technology hear being AI. Artificial intelligence improves algorithms when performing biometric scans and also checks for live-ness [[13]](#13).
 
 - Why are these technologies appropriate for your solution?
-  - security, efficiency, increased use cases... same points I madea bove
+  - Since nanopay is trying to achieve a secure, instantaneouse, boarderless and scalable product adding computer vision and biometric technology into their service would only further help them achieve this goal [[14]](#14).
 
 ## References
 
@@ -170,3 +172,7 @@
 <a id="11">[11]</a> https://www.cashbook.com/changes-in-payment-trends-over-the-last-10-years/
 
 <a id="12">[12]</a> https://codete.com/blog/7-key-payments-innovations-in-fintech-for-2020/
+
+<a id="13">[13]</a> https://medium.com/@inforobertsmith36/the-crucial-role-of-ai-in-payment-services-aee465af6d1b
+
+<a id="14">[14]</a> https://www.cioreview.com/news/benefits-of-integrating-biometrics-and-computer-vision-nid-27700-cid-175.html
