@@ -7,34 +7,34 @@
 
 * When was the company incorporated?
 
-  - Nanopay was incorporated in 2013.
+  - Nanopay was incorporated in 2013. [[1]](#1)
 
 * Who are the founders of the company?
 
-  - The founder of the company is Laurence Cooke.
+  - The founder of the company is Laurence Cooke. [[1]](#1)
 
 * How did the idea for the company (or project) come about?
 
-  - The idea behind nanopay came about when the founder Laurence Cooke realized that there was an area in the financial sector in need of innovation, the industry of payments. He realized at the time back in 2013 that banks were mostly focused on account acquisition. His goal with nanopay was to deliver simple and accessible payment to all people.
+  - The idea behind nanopay came about when the founder Laurence Cooke realized that there was an area in the financial sector in need of innovation, the industry of payments. He realized at the time back in 2013 that banks were mostly focused on account acquisition. His goal with nanopay was to deliver simple and accessible payment to all people. [[1]](#1)
 
 * How is the company funded? How much funding have they received?
 
-  - Nanopay is privately funded.
+  - Nanopay is privately funded. [[1]](#1)
 
-  * In the seeding round nanopay raised $350 000 of funding.
-  * In Series A it raised $10 million dollars of funding in 2016.
+  * In the seeding round nanopay raised $350 000 of funding. [[2]](#2)
+  * In Series A it raised $10 million dollars of funding in 2016. [[2]](#2) [[3]](#3)
 
   ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
-  - Nanopay is revolutionizing how payments are made between businesses, financial institutions and central bank customers. They offer a digital payment solution which improves in both efficiency and scalability the current payment system that is used in the industry. Their open and flexible APIs enable banks, payment services providers and businesses to use the platform for low-cost, real-time payment applications in both domestic and cross-border payments securely and instantaneously. They allow businesses to scale by offering innovative payment and liquidity management products.
+  - Nanopay is revolutionizing how payments are made between businesses, financial institutions and central bank customers. They offer a digital payment solution which improves in both efficiency and scalability the current payment system that is used in the industry. Their open and flexible APIs enable banks, payment services providers and businesses to use the platform for low-cost, real-time payment applications in both domestic and cross-border payments securely and instantaneously. They allow businesses to scale by offering innovative payment and liquidity management products. [[1]](#1) [[2]](#2)
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
-  - The intended customers of nanopay are businesses. They hope to increase the ease and efficiency of digital payments in the B2B marketplace.
+  - The intended customers of nanopay are businesses. They hope to increase the ease and efficiency of digital payments in the B2B marketplace. [[1]](#1)
 
-  * There is a large market size of this set of customers, however there are still many innovative infrastructure and regulatory hurdles that need to be addressed before the B2B marketplace can be fully tapped by FinTech.
+  * There is a large market size of this set of customers, however there are still many innovative infrastructure and regulatory hurdles that need to be addressed before the B2B marketplace can be fully tapped by FinTech. [[1]](#1)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -79,3 +79,11 @@
   - Relative to competitors the company is performing in the same ballpark range for total funding (most around $10 Million), it has 49 employees which is on the larger end for FinTech’s in the similar range.
 
   - Compared to competitors such as ApplePay and AmazonPay, it has more flexibility in terms of being a smaller FinTech Startup meaning it offers more diversified and targeted products to it’s clients try to create a scalable digital cash system for B2B and B2C payments.
+
+## References
+
+<a id="1">[1]</a> https://nanopay.net/
+
+<a id="2">[2]</a> https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/payments-money-transfer/nanopay/
+
+<a id="3">[3]</a> https://ca.finance.yahoo.com/news/nanopay-announces-10-million-series-120000917.html
