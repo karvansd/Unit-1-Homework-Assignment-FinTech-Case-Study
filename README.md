@@ -38,13 +38,34 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-  -
+  - Two key capabilities of nanopay that power its product offerings and value proposition: [[1]](#1)[[2]](#2)
+    - Store of value: Nanopay offers a digital cash mechanism. The digital cash is equal to fiat currency enabling the instantaneous and secure transactions, as well as guaranteed value and usability for its users.
+    * Payment network: network effects are essential for nanopay to maximize the value users can extract from the platform. Nanopay has partnered recently with BePay [[5]](#5)to enable cross-border payments for their customers further increasing their total network size. This increases its total network effect and enables more transactions between parties on the network within and across borders.
+
+  * Specifically within their payment ecosystem they enable their customers to go to market faster via the digital cash mechanism as they add an easy way to add account-to-account payments to the service or platform their customer provides. Their payments product has customer on-boarding, anti-money laundering (AML) checks, and fraud monitoring all integrated within making it easier for their clients to scale their business with efficiency and peace of mind that they are meeting all regulatory requirements. [[1]](#1)
+
+  - Their payment solution is also low-cost by moving money directly between bank accounts since they do not go through intermediaries. They also have competitive and affordable foreign exchange rates. [[1]](#1)
+
+  * The digital cash mechanism also enables their liquidity management product for businesses, which goes above and beyond traditional liquidity management mechanisms. Their clients can manage internal payments from a central platform across all units. The current cash position can be known allowing businesses to free up trapped capital and invest funds. [[1]](#1)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-  -
+  - The nanopay platform is built using hybrid blockchain technology, combining blockchain features and conventional databases. Specifically, they used a Centralized Ledger Technology (CLT) that is cryptographically secure. The CLT is implemented to improve throughput of their digital payment service, simplify the governance and reduce security costs by leveraging an immutable ledger. The nanopay CLT technology is also very fast and can handle up to 50k transactions per section, which is ~2500x faster than decentralized blockchain payment products. [[1]](#1)
 
-  ## Landscape:
+  * The full stack of technologies that they use include: [[4]](#4)
+    - Application and Data
+      - PHP
+      * NGINX
+      * Bootstrap
+      * UIkIt
+    - Utilities
+      - Google Analytics
+    * Business Tools
+      - WordPress
+      * G Suite
+      * Zendesk
+
+* ## Landscape:
 
 * What domain of the financial industry is the company in?
 
@@ -87,3 +108,7 @@
 <a id="2">[2]</a> https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/payments-money-transfer/nanopay/
 
 <a id="3">[3]</a> https://ca.finance.yahoo.com/news/nanopay-announces-10-million-series-120000917.html
+
+<a id="4">[4]</a> https://stackshare.io/nanopay/nanopay
+
+<a id="5">[5]</a> https://www.prnewswire.com/news-releases/bepay-partners-with-nanopay-to-enable-cross-border-payments-for-their-customers-301182530.html
