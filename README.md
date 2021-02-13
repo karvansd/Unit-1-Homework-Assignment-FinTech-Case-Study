@@ -138,14 +138,14 @@
 
 - Why do you think that offering this product or service would benefit the company?
 
-  - Computer vision and biometric technology would add an extra and secure layer of identification. This would help with monitoring for fraud and the added security would also help facilitate in transactions both domestically, but especially across borders. This would help with KYC protocols and help to ensure that a person has to biometrically confirm an account is theirs before sending a transaction. It is hard to fool such systems built off of AI technology, which adds to their security. As well, authorizing payments with computer vision identification, also saves time by not having to use cash or credit card.
+  - Computer vision and biometric technology would add an extra and secure layer of identification. This would help with monitoring for fraud and the added security would also help facilitate in transactions both domestically, but especially across borders. This would help with KYC protocols and help to ensure that a person has to biometrically confirm an account is theirs before sending a transaction. It is hard to fool such systems built off of AI technology, which adds to their security. As well, authorizing payments with computer vision identification, also saves time by not having to use cash or credit card [[13]](#13).
 
 - What technologies would this additional product or service utilize?
 
-  - Computer vision and biometric technology. The underlying technology hear being AI. Artificial intelligence improves algorithms when performing biometric scans and also checks for live-ness [[13]](#13).
+  - Computer vision and biometric technology. The underlying technology hear being AI. Artificial intelligence improves algorithms when performing biometric scans and also checks for live-ness [[14]](#14).
 
 - Why are these technologies appropriate for your solution?
-  - Since nanopay is trying to achieve a secure, instantaneouse, boarderless and scalable product adding computer vision and biometric technology into their service would only further help them achieve this goal [[14]](#14).
+  - Since nanopay is trying to achieve a secure, instantaneouse, boarderless and scalable product adding computer vision and biometric technology into their service would only further help them achieve this goal.
 
 ## References
 
